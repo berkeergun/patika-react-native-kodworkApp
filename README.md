@@ -2,7 +2,7 @@
 <div align="center">
   
 ### Submit Button goes to real job link.
-<img src="./gif/kodwork.gif" width="320" height="684" style="border-radius:9%/>
+<img src="./gif/kodwork.gif" width="320" height="684" style="border-radius:9%"/>
   
 </div>
 

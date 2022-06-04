@@ -1,6 +1,10 @@
 # kodwork App
+<div align="center">
+  
 ### Submit Button goes to real job link.
 <img src="./gif/kodwork.gif" width="320" height="684"/>
+  
+</div>
 
 
 ## <font color="orange">Device</font> => <font color="yellow"> Pixel 3a</font>
